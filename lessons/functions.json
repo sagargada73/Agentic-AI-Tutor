@@ -1,0 +1,9 @@
+{
+    "title": "Functions in Python",
+    "content": [
+      "Functions are blocks of code that perform a specific task. They are reusable and help organize code.",
+      "You define a function using the `def` keyword.",
+      "A function can take arguments and return values.",
+      "Example:\n```python\ndef greet(name):\n    return f'Hello, {name}'\n\nprint(greet('Alice'))\n```"
+    ]
+  }

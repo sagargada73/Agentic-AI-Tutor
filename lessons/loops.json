@@ -1,0 +1,10 @@
+{
+    "title": "Loops in Python",
+    "content": [
+      "Loops are used to repeat a block of code multiple times.",
+      "The `for` loop is used for iterating over a sequence (e.g., list, tuple, or string).",
+      "The `while` loop executes a set of statements as long as a condition is true.",
+      "Example of a `for` loop:\n```python\nfor i in range(5):\n    print(i)\n```",
+      "Example of a `while` loop:\n```python\nx = 0\nwhile x < 5:\n    print(x)\n    x += 1\n```"
+    ]
+  }

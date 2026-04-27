@@ -1,0 +1,9 @@
+{
+    "title": "Variables and Data Types",
+    "content": [
+      "Variables are containers for storing data values in Python.",
+      "Python supports different data types such as integers, floats, strings, and booleans.",
+      "Example:",
+      "```python\nx = 5  # Integer\ny = 3.14  # Float\nz = 'Hello'  # String\nis_active = True  # Boolean\n```"
+    ]
+  }

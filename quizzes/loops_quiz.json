@@ -1,0 +1,15 @@
+{
+    "title": "Loops Quiz",
+    "questions": [
+      {
+        "question": "What is the output of this code?\n```python\nfor i in range(3):\n    print(i)\n```",
+        "options": ["0 1 2", "1 2 3", "0 1 2 3", "None of the above"],
+        "answer": "0 1 2"
+      },
+      {
+        "question": "What is the correct syntax for a `while` loop?",
+        "options": ["while (condition):", "while condition {", "while [condition]:", "loop (condition):"],
+        "answer": "while (condition):"
+      }
+    ]
+  }

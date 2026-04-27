@@ -1,0 +1,10 @@
+{
+    "title": "Conditionals in Python",
+    "content": [
+      "Conditionals are used to perform different actions based on different conditions.",
+      "The `if` statement evaluates a condition and executes the block of code if the condition is true.",
+      "`elif` is used to check multiple expressions for true and execute the block for the first true condition.",
+      "`else` is executed if none of the previous conditions are true.",
+      "Example:\n```python\nx = 10\nif x > 5:\n    print('x is greater than 5')\nelif x == 5:\n    print('x is 5')\nelse:\n    print('x is less than 5')\n```"
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "completed_lessons": [
+        "Introduction to Python"
+    ],
+    "quiz_scores": {},
+    "last_learning_time": "2025-02-28 15:03:20",
+    "streak_count": 1,
+    "learning_goal": {
+        "goal_description": "Complete Python basics in 2 weeks",
+        "start_date": "2025-01-14",
+        "end_date": "2025-01-28",
+        "lesson_plan": [
+            "Introduction to Python",
+            "Variables and Data Types"
+        ],
+        "completed_lessons": []
+    },
+    "badges": []
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Functions Quiz",
+    "questions": [
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "func", "def", "define"],
+        "answer": "def"
+      },
+      {
+        "question": "What will this code return?\n```python\ndef add(a, b):\n    return a + b\n\nprint(add(5, 3))\n```",
+        "options": ["5", "8", "None", "Error"],
+        "answer": "8"
+      }
+    ]
+  }

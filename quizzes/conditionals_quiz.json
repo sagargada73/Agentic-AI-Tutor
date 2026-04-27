@@ -1,0 +1,15 @@
+{
+    "title": "Conditionals Quiz",
+    "questions": [
+      {
+        "question": "What keyword is used to check multiple conditions in Python?",
+        "options": ["if", "elif", "else", "switch"],
+        "answer": "elif"
+      },
+      {
+        "question": "What will this code print if `x = 10`?\n```python\nif x > 5:\n    print('A')\nelif x == 10:\n    print('B')\nelse:\n    print('C')\n```",
+        "options": ["A", "B", "C", "No output"],
+        "answer": "A"
+      }
+    ]
+  }

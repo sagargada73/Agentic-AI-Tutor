@@ -1,0 +1,20 @@
+{
+    "title": "Variables and Data Types",
+    "questions": [
+      {
+        "question": "What data type is `3.14` in Python?",
+        "options": ["Integer", "Float", "String", "Boolean"],
+        "answer": "Float"
+      },
+      {
+        "question": "Which of the following is a valid variable name?",
+        "options": ["2var", "_name", "while", "$value"],
+        "answer": "_name"
+      },
+      {
+        "question": "How do you declare a string variable?",
+        "options": ["str x = 'Hello'", "x: str = 'Hello'", "x = 'Hello'", "declare x = 'Hello'"],
+        "answer": "x = 'Hello'"
+      }
+    ]
+  }
